@@ -8,12 +8,12 @@ I built this project using the following components:
 - LCD1602 display  
 - 5V magnetic buzzer  
 - 1 RGB LED (4 pins)  
-- 3 × 220Ω resistors  
+- 3 × 220Ω resistors (for the RGB LED)
 - 1 push button  
 - 2kΩ resistor (used instead of a potentiometer)  
-- Jumper wires (male-to-male and female-to-male)
+- Jumper wires
+- female-to-male wires
 
-I used **all Arduino pins except D0, D1, D2, and D3**.
 
 For the LCD contrast, I did not use a potentiometer.  
 Instead, I connected a **2kΩ resistor between V0 and GND** to lower the contrast, since I did not have a potentiometer available.
