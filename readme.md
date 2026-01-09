@@ -16,7 +16,7 @@ I built this project using the following components:
 
 
 For the LCD contrast, I did not use a potentiometer.  
-Instead, I connected a **2kΩ resistor between V0 and GND** to lower the contrast, since I did not have a potentiometer available.
+Instead, I connected a **2kΩ resistor between V0 and GND** to lower the contrast.
 
 ![2k Ohm Resistor](images/2k%20ohm%20resistor.jpeg)
 
