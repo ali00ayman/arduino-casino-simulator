@@ -13,6 +13,7 @@ I built this project using the following components:
 - 2kΩ resistor (used instead of a potentiometer)  
 - Jumper wires
 - female-to-male wires
+- Code: used chatgpt to generate it 
 
 
 For the LCD contrast, I did not use a potentiometer.  
