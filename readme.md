@@ -52,7 +52,7 @@ After **4 games**, the system asks:
 
 
 
-# Sound & Light Output
+## Sound & Light Output
 
 - **Win**
   - Buzzer plays a “ding ding ding” sound  
@@ -61,8 +61,6 @@ After **4 games**, the system asks:
 - **Loss**
   - Buzzer plays a sad sound  
   - RGB LED lights up red  
-
-This feedback makes the game more interactive and enjoyable.
 
 
 
